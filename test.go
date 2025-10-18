@@ -16,4 +16,6 @@ func main() {
 	conditional()
 	fmt.Println()
 	switchCases()
+	fmt.Println()
+	arr()
 }
