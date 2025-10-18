@@ -14,4 +14,6 @@ func main() {
 	loops()
 	fmt.Println()
 	conditional()
+	fmt.Println()
+	switchCases()
 }
