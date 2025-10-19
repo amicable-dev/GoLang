@@ -20,7 +20,8 @@ func main() {
 	// arr()
 	//fmt.Println()
 	//slice()
+	// fmt.Println()
+	// mapping()
 	fmt.Println()
-	mapping()
-
+	sol()
 }
