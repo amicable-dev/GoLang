@@ -23,7 +23,7 @@ func switchCases() {
 	default:
 		fmt.Println("Its a WeekDay")
 	}
-
+	//used as if else since we didnt gave any expression with switch
 	t := time.Now()
 	switch {
 	case t.Hour() < 12:
