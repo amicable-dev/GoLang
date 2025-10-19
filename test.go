@@ -9,7 +9,7 @@ func main() {
 	// fmt.Println()
 	// variables()
 	// fmt.Println()
-	constant()
+	//constant()
 	// fmt.Println()
 	// loops()
 	// fmt.Println()
@@ -18,7 +18,9 @@ func main() {
 	// switchCases()
 	// fmt.Println()
 	// arr()
+	//fmt.Println()
+	//slice()
 	fmt.Println()
-	slice()
+	mapping()
 
 }
