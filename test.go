@@ -24,6 +24,8 @@ func main() {
 	// mapping()
 	// fmt.Println()
 	// sol()
+	// fmt.Println()
+	// multiReturn()
 	fmt.Println()
-	multiReturn()
+	varFun()
 }
