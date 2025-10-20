@@ -6,7 +6,7 @@ func sumOFall(nums ...int) {
 
 	fmt.Print("nums :", " ")
 	total := 0
-	for _, num := range nums {
+	for _, num := range nums { //here we using _ because nums... becoms []int slice which comes with key and value so values get stored into v and the index is getting ignored
 		total += num
 	}
 	fmt.Println(total)
