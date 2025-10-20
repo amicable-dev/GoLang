@@ -22,6 +22,8 @@ func main() {
 	//slice()
 	// fmt.Println()
 	// mapping()
+	// fmt.Println()
+	// sol()
 	fmt.Println()
-	sol()
+	multiReturn()
 }
