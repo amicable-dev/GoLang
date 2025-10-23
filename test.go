@@ -26,6 +26,11 @@ func main() {
 	// sol()
 	// fmt.Println()
 	// multiReturn()
+	// fmt.Println()
+	// varFun()
+	// fmt.Println()
+	// clous()
 	fmt.Println()
-	varFun()
+	res()
+
 }
