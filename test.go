@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func main() {
 	// fmt.Print("hello world")
 	// fmt.Println()
@@ -30,7 +28,9 @@ func main() {
 	// varFun()
 	// fmt.Println()
 	// clous()
-	fmt.Println()
-	res()
+	// fmt.Println()
+	// res()
+	// fmt.Println()
+	rangeOver()
 
 }
